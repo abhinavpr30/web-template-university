@@ -165,7 +165,7 @@ nav .fa {
   padding: 10px;
 }
 .image-layer:hover {
-  background-color: rgba(255, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.41);
 }
 .image-layer h3 {
   position: absolute;
